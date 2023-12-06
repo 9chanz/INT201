@@ -20,7 +20,7 @@
 
 - (week#3-4) _`Expression, Operators, and Control Structures`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/1-2566-INT201-expressions-ctrlstructures.git)
   - References
     - [Expression and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
     - [Operator Precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
@@ -37,14 +37,14 @@
 
   - _`Basic Arrays`_
 
-    - [git repo]
+    - [git repo](https://github.com/umaporn-sup/1-2566-INT201-basic-array.git)
     - References
       - [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
       - [Spread in array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#spread_in_array_literals)
       - [Array Destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#array_destructuring)
 
   - _`Basic Functions`_
-    - [git repo](https://github.com/umaporn-sup/1-2565-INT201-basic-functions.git)
+    - [git repo](https://github.com/umaporn-sup/1-2566-INT201-basic-function.git)
     - References
       - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 
@@ -52,7 +52,7 @@
 
 - (week#7) _`Objects`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/1-2566-INT201-basic-array.git)
   - References
     - [Introduction JavaScript Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
     - [Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
@@ -60,15 +60,15 @@
     - [Object Destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#object_destructuring)
     - [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 
-- (week#8) _`Array Methods`_
+- (week#8-9) _`Array Methods`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/1-2566-INT201-array-methods.git)
   - References
     - [Array Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#instance_methods)
 
-- (week#9-10) _`Working with Objects, Arrays, and Functions`_
+- (week#9-10) _`Working with Functions`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/1-2566-INT201-working-functions.git)
   - References
     - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
     - [Function expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function)
@@ -81,7 +81,7 @@
 
 - (week#11) _`JavaScript Modules`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/1-2566-js-modules.git)
   - References
     - [JavaScript Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
     - [import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
@@ -89,30 +89,31 @@
 
 - (week#12) Exam#2
 
-- (week#13) _`Document Object Model (DOM)`_
+- (week#13-14) _`Document Object Model (DOM)`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/1-2566-INT201-DOM.git)
   - Reference
     - [Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
-- (week#14) _`Events`_
+- (week#15) _`Events`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/1-2566-INT201-events.git)
   - References
     - [Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
     - [Event Interface](https://developer.mozilla.org/en-US/docs/Web/API/Event)
 
-- (week#15) _`Client Side Storages`_
+- (week#16) _`Client Side Storages`_
 
-  - [git repo]
+  - [git repo](https://github.com/umaporn-sup/1-2566-INT201-client-storages.git)
   - References
     - [Client Storages](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
     - [Cookies](https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie)
     - [Web Storages](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
 
-- (week#16) _`Asynchronous JavaScript`_
+- [todo-app Solution](https://github.com/umaporn-sup/todo-app.git)
 
-  - [git repo]
+- Read More: _`Asynchronous JavaScript`_
+
   - References
     - [Asynchronous](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
 
